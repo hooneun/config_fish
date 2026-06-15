@@ -18,4 +18,7 @@ if status is-interactive
     abbr -a .. 'cd ..'
     abbr -a ... 'cd ../..'
     abbr -a .... 'cd ../../..'
+    abbr -a vim nvim
+    abbr -a vi nvim
+    abbr -a n nvim
 end
